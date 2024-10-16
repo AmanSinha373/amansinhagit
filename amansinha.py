@@ -1,2 +1,1 @@
-Initial commit
-Some changes
+print("The lab test is completed")
